@@ -8,3 +8,7 @@ Initialize your Python environment from the file named '**requirements.txt**'.
 ## Python examples
 
 My work is based on following [Documentation](https://ollama.com/blog/python-javascript-libraries)
+
+## LLM Models
+
+I begin my experiments with [Microsoft Phi-2](https://ollama.com/library/phi:latest) Model.
